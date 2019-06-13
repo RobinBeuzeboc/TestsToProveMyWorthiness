@@ -5,6 +5,7 @@ Not gonna lie, I thought the program had to compute this way at the beginning, s
 I've challenged myself to not code for more than 1h20 (also because i didn't have more time than that...)
 Still, i hope my skills are relevant and that i'm not to rusty.
 
+Results are available on : https://TestsToProveMyMight.kjaald.repl.run
 
 
 
